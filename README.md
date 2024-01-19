@@ -1,16 +1,14 @@
-### Hi there 👋
+### Seasoned Full Stack Engineer
 
-<!--
-**horaldhrld/horaldhrld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Main skill:
+- React, Next.js, React Query
+- MUI, TailwindCSS, Bootstrap
+- Node.js, Express.js, Nest.js, Prisma
+- Python, FastAPI
+- AWS, GCP, Azure
+- GraphQL, RESTful API
+- Microservices, Serverless architecture
+- Test: Storybook, Jest, Cypress, Mocha, PyTest
+- GitHub Actions, Jenkins
+- Cross-browser & Cross-platform testing
+- Agile, Scrum, Kanban
